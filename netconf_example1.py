@@ -2,12 +2,13 @@
 """
 Lab: vagrant up for Network Engineers
 Author: Hank Preston <hapresto@cisco.com>
+#making a change for learning purposes
 
 netconf_example1.py
 Illustrate the following concepts:
-- Send <get> to retrieve config and state data 
-- Process and leverage XML within Python 
-- Report back current state of interface 
+- Send <get> to retrieve config and state data
+- Process and leverage XML within Python
+- Report back current state of interface
 """
 
 __author__ = "Hank Preston"
